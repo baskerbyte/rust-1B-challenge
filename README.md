@@ -109,3 +109,20 @@
     </tr>
   </tbody>
 </table>
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://via.placeholder.com/50" alt="Foto de João Silva" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+    <span>João Silva</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://via.placeholder.com/50" alt="Foto de Maria Oliveira" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+    <span>Maria Oliveira</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://via.placeholder.com/50" alt="Foto de Pedro Santos" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+    <span>Pedro Santos</span>
+</div>
