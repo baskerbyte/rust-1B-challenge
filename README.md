@@ -115,7 +115,7 @@
 <h1 align="center">INTEGRANTES</h1>
 <br>
 <p align="center" class="github-links">
-<a href="https://github.com/Geisbelly-vic">
+<a href="https://github.com/Geisbelly">
     <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Geis.png" width="210px" alt="Geisbelly"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/baskerbyte">
