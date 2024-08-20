@@ -119,10 +119,10 @@
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20107.png" width="210px" alt="Geisbelly"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/baskerbyte">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Luís Fernando"></a>
+    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Luís"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/livaibrr">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Maria Antônia"></a>
+    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Maria"></a>
 </p>
 
 
