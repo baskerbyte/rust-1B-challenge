@@ -30,3 +30,10 @@
 ## Screenshots
 ----
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+| Nome         | Idade | Cargo           | Localização   |
+|--------------|-------|-----------------|---------------|
+| João Silva   | 30    | Desenvolvedor    | São Paulo     |
+| Maria Oliveira| 28    | Designer         | Rio de Janeiro|
+| Pedro Santos  | 35    | Gerente de Projetos | Belo Horizonte|
