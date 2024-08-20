@@ -112,7 +112,7 @@
 
 
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex-direction; row: column; gap: 10px;">
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
         <img src="https://via.placeholder.com/50" alt="Foto de João Silva" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
         <span>João Silva</span>
