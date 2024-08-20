@@ -37,3 +37,36 @@
 | João Silva   | 30    | Desenvolvedor    | São Paulo     |
 | Maria Oliveira| 28    | Designer         | Rio de Janeiro|
 | Pedro Santos  | 35    | Gerente de Projetos | Belo Horizonte|
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f4f4f4; color: #333;">Nome</th>
+      <th style="background-color: #f4f4f4; color: #333;">Idade</th>
+      <th style="background-color: #f4f4f4; color: #333;">Cargo</th>
+      <th style="background-color: #f4f4f4; color: #333;">Localização</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="color: #007BFF;">João Silva</td>
+      <td style="color: #007BFF;">30</td>
+      <td style="color: #007BFF;">Desenvolvedor</td>
+      <td style="color: #007BFF;">São Paulo</td>
+    </tr>
+    <tr>
+      <td style="color: #007BFF;">Maria Oliveira</td>
+      <td style="color: #007BFF;">28</td>
+      <td style="color: #007BFF;">Designer</td>
+      <td style="color: #007BFF;">Rio de Janeiro</td>
+    </tr>
+    <tr>
+      <td style="color: #007BFF;">Pedro Santos</td>
+      <td style="color: #007BFF;">35</td>
+      <td style="color: #007BFF;">Gerente de Projetos</td>
+      <td style="color: #007BFF;">Belo Horizonte</td>
+    </tr>
+  </tbody>
+</table>
+
