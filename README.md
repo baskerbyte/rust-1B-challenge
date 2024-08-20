@@ -116,13 +116,13 @@
 <br>
 <p align="center" class="github-links">
 <a href="https://github.com/Geisbelly-vic">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20107.png" width="210px" alt="Geisbelly"></a>
+    <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Geis.png" width="210px" alt="Geisbelly"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/baskerbyte">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Luís"></a>
+    <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Luis.png" width="210px" alt="Luis Fernando"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/MariAntonia-010">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Maria"></a>
+    <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Mary.png" width="210px" alt="Maria Antônia"></a>
 </p>
 
 
