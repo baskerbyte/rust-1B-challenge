@@ -1,3 +1,13 @@
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+- [x] #739
+- [x] https://github.com/octo-org/octo-repo/issues/740
+- [x] Add delight to the experience when all tasks are complete :tada:
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
