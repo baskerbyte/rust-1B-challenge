@@ -121,7 +121,7 @@
 <a href="https://github.com/baskerbyte">
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Luís"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
-<a href="https://github.com/livaibrr">
+<a href="https://github.com/MariAntonia-010">
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Maria"></a>
 </p>
 
