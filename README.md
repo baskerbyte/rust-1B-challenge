@@ -112,18 +112,17 @@
 
 
 
-<h1 align="center">MINISTRANTES</h1>
+<h1 align="center">INTEGRANTES</h1>
 <br>
 <p align="center" class="github-links">
 <a href="https://github.com/Geisbelly-vic">
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20107.png" width="210px" alt="Geisbelly"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/dy3nd">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Lucas"></a>
+    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20105.png" width="210px" alt="Luís Fernando"></a>
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/livaibrr">
-    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Levi"></a>
+    <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Group%20106.png" width="210px" alt="Maria Antônia"></a>
 </p>
-<br>     
 
 
