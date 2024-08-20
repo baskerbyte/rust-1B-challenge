@@ -87,30 +87,6 @@
 </div>
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Foto</th>
-      <th>Nome</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://via.placeholder.com/50" alt="Foto de João Silva" style="width: 50px; height: 50px; border-radius: 50%;"></td>
-      <td>João Silva</td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/50" alt="Foto de Maria Oliveira" style="width: 50px; height: 50px; border-radius: 50%;"></td>
-      <td>Maria Oliveira</td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/50" alt="Foto de Pedro Santos" style="width: 50px; height: 50px; border-radius: 50%;"></td>
-      <td>Pedro Santos</td>
-    </tr>
-  </tbody>
-</table>
-
-
 
 <h1 align="center">INTEGRANTES</h1>
 <br>
