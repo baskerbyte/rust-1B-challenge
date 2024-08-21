@@ -88,7 +88,7 @@
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mDisco.jpeg">
 </div>
 
-> ### Legenda:
+> #### Legenda:
 > Eixo x = Variação do tempo em segundo
 
 
@@ -105,7 +105,7 @@
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bDisco.jpeg">
 </div>
 
-> ### Legenda:
+> #### Legenda:
 > Eixo x = Variação do tempo em segundo
 
 
@@ -122,7 +122,7 @@
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tDisco.jpeg">
 </div>
 
-> ### Legenda:
+> #### Legenda:
 > Eixo x = Variação do tempo em segundo
 
 </div>
