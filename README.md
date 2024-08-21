@@ -1,95 +1,30 @@
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=header"/>
 
->[!NOTE]
->
->This is a standard NOTE block.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=40&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)!;Ao+nosso+projeto!+:%29)](https://git.io/typing-svg)
 
-- [x] #739
-- [x] https://github.com/octo-org/octo-repo/issues/740
-- [x] Add delight to the experience when all tasks are complete :tada:
+<div align="center" />
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
-## Screenshots
-----
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-| Nome         | Idade | Cargo           | Localização   |
-|--------------|-------|-----------------|---------------|
-| João Silva   | 30    | Desenvolvedor    | São Paulo     |
-| Maria Oliveira| 28    | Designer         | Rio de Janeiro|
-| Pedro Santos  | 35    | Gerente de Projetos | Belo Horizonte|
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="background-color: #f4f4f4; color: #333;">Nome</th>
-      <th style="background-color: #f4f4f4; color: #333;">Idade</th>
-      <th style="background-color: #f4f4f4; color: #333;">Cargo</th>
-      <th style="background-color: #f4f4f4; color: #333;">Localização</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="color: #007BFF;">João Silva</td>
-      <td style="color: #007BFF;">30</td>
-      <td style="color: #007BFF;">Desenvolvedor</td>
-      <td style="color: #007BFF;">São Paulo</td>
-    </tr>
-    <tr>
-      <td style="color: #007BFF;">Maria Oliveira</td>
-      <td style="color: #007BFF;">28</td>
-      <td style="color: #007BFF;">Designer</td>
-      <td style="color: #007BFF;">Rio de Janeiro</td>
-    </tr>
-    <tr>
-      <td style="color: #007BFF;">Pedro Santos</td>
-      <td style="color: #007BFF;">35</td>
-      <td style="color: #007BFF;">Gerente de Projetos</td>
-      <td style="color: #007BFF;">Belo Horizonte</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://via.placeholder.com/50" alt="Foto de João Silva" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-    <span>João Silva</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://via.placeholder.com/50" alt="Foto de Maria Oliveira" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-    <span>Maria Oliveira</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://via.placeholder.com/50" alt="Foto de Pedro Santos" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-    <span>Pedro Santos</span>
-</div>
-
-
-
-<h1 align="center">INTEGRANTES</h1>
 <br>
+
+# Sobre o Projeto - Desafio
+
+  
+#### O projeto consiste no desenvolvimento de um(ns) programas, que leiam arquivos de:
+ 1 - Milhão de linhas, com números randomicos entre 0 e 1 milhão
+ <br>1 - Bilhão de linhas, com números randomicos entre 0 e 1 bilhão
+<br>1 - Trilhão de linhas, com números randomicos entre 0 e 1 trilhão
+
+#### Tal desafio foi proposto pelo professor Jackson Gomes de Souza, na segunda aula da materia de Estruturas e Complexidade de Algoritmos
+
+</div> 
+
+<div align="center" />
+
+<br>
+
+## Integrantes
+
+  
 <p align="center" class="github-links">
 <a href="https://github.com/Geisbelly">
     <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Geis.png" width="210px" alt="Geisbelly"></a>
@@ -101,4 +36,37 @@
     <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Mary.png" width="210px" alt="Maria Antônia"></a>
 </p>
 
+<br>
 
+  
+## Resultados
+</div>
+
+<div align="left" />
+
+### Divisão em 2 Partes
+
+> ## Resumos
+> ### Parte 1
+> Programa para 1 milhão e bilhão;
+> <br>Linguagem: Rust;
+> <br>Metodo: Multi-threads, paralelismo, batches+lock;
+> <br>Divisão: Criação e leitura, separados.
+> ### Parte 2
+> Programa para 1 trilhão;
+> <br>Linguagem: Python;
+> <br>Metodo: Multi-tarefas, funções sincronas e assincronas, lotes(blocos), eventos de monitoramento;
+> <br>Divisão: Criação, leitura e limpeza, mesclados.
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=footer"/>
