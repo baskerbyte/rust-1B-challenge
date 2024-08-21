@@ -34,6 +34,8 @@
     <img src="https://github.com/Geisbelly-vic/Curso-de-Figma-2024-02/blob/main/Imagens/Integrante/Rectangle%20375.png" width="80px">
 <a href="https://github.com/MariAntonia-010">
     <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/Mary.png" width="210px" alt="Maria Antônia"></a>
+
+Geisbelly Victória dos Santos Feitosa Moraes, Luis Fernando Borges Lima e Maria Antônica Alves Curcino
 </p>
 
 <br>
