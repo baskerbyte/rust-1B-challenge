@@ -40,33 +40,61 @@
 
   
 ## Resultados
-</div>
 
-<div align="left" />
+
+
 
 ### Divisão em 2 Partes
+</div>
+<div align="left" />
 
-> ## Resumos
-> ### Parte 1
+> ### Resumos
+> #### Parte 1
 > Programa para 1 milhão e bilhão;
 > <br>Linguagem: Rust;
 > <br>Metodo: Multi-threads, paralelismo, batches+lock;
 > <br>Divisão: Criação e leitura, separados.
-> ### Parte 2
+> <br>Lógica: 
+> #### Parte 2
 > Programa para 1 trilhão;
 > <br>Linguagem: Python;
 > <br>Metodo: Multi-tarefas, funções sincronas e assincronas, lotes(blocos), eventos de monitoramento;
 > <br>Divisão: Criação, leitura e limpeza, mesclados.
+> <br>Lógica: 
 </div>
 
+<div align="center" />
+
+### Parte 1
+
+#### Analise para 1 milhão
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mCPU.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mRAm.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mDisco.jpeg">
+</div>
+Tempo de execução total: 0.06 segundos
+
+#### Analise para 1 bilhão
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bCPU.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bRAm.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bDisco.jpeg">
+</div>
+
+Tempo de execução total: 1.98 segundos
+
+### Parte 2
 
 
+#### Analise para 1 trilhão
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tCPU.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tRAm.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tDisco.jpeg">
+</div>
+Tempo de execução total: 5.46 segundos
 
-
-
-
-
-
-
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=footer"/>
