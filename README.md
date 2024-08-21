@@ -79,35 +79,41 @@
   
 ## Parte 1
 ### Analise para 1 milhão
+
+#### Tempo de execução total: 0.09 segundos
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mCPU.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mRAm.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mDisco.jpeg">
 </div>
 
-#### Tempo de execução total: 0.09 segundos
+
 <br>
 
 ### Analise para 1 bilhão
+
+#### Tempo de execução total: 1.98 segundos
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bCPU.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bRAm.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bDisco.jpeg">
 </div>
 
-#### Tempo de execução total: 1.98 segundos
 
 <br>
 
 ## Parte 2
 ### Analise para 1 trilhão
+
+#### Tempo de execução total: 5.46 segundos
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tCPU.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tRAm.jpeg" style="margin-right: 50px;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1tDisco.jpeg">
 </div>
-
-#### Tempo de execução total: 5.46 segundos
 
 </div>
 
