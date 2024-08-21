@@ -53,14 +53,20 @@
 > Programa para 1 milhão e bilhão;
 > <br>Linguagem: Rust;
 > <br>Metodo: Multi-threads, paralelismo, batches+lock;
-> <br>Divisão: Criação e leitura, separados.
-> <br>Lógica: 
+> <br>Divisão: Escrita e leitura, separados.
+> 
+> <br>Lógica:
+> <br>Para a escrita no arquivo, foram utilizadas várias threads para permitir o paralelismo. Cada thread é encarregada de gerar números em batches. Após a conclusão de cada batch, a thread adquire um lock no mutex (para garantir que não haja sobrescrição concorrente) e escreve os dados no arquivo.
+>
+> Para otimizar a busca em um arquivo, foram criadas várias threads, cada uma responsável por ler um segmento do arquivo. Cada thread verifica se o número desejado está presente em sua parte designada, permitindo uma busca paralela eficiente.
 > #### Parte 2
 > Programa para 1 trilhão;
 > <br>Linguagem: Python;
 > <br>Metodo: Multi-tarefas, funções sincronas e assincronas, lotes(blocos), eventos de monitoramento;
-> <br>Divisão: Criação, leitura e limpeza, mesclados.
-> <br>Lógica: 
+> <br>Divisão: Escrita, leitura e limpeza, mesclados.
+>
+>  <br>Lógica:
+> <br> O programa é estruturado em um conjunto definido de tarefas que, trabalhando em blocos, escreve cada número em uma linha. Quando o número de linhas no arquivo atinge um limite global, a função síncrona de busca é ativada, interrompendo as tarefas paralelas. Esta função procura o número desejado dentro do arquivo, sinaliza um evento caso o número seja encontrado (o que resulta na finalização de todas as atividades), e em seguida limpa o arquivo para evitar que o tamanho atinja 1TB. Após a limpeza, as atividades são retomadas. O processo continua até que se atinja a quantidade pré-definida de linhas ou até que o número seja localizado.
 </div>
 
 <div align="center" />
