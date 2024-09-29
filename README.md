@@ -81,6 +81,7 @@
 ### Analise para 1 milhão
 
 #### Tempo de execução total: 0.09 segundos
+#### Tamanho: 3,34 MB (máximo)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1mCPU.jpeg" style="margin-right: 50px;">
@@ -98,6 +99,7 @@
 ### Analise para 1 bilhão
 
 #### Tempo de execução total: 1.98 segundos
+#### Tamanho: 4,67 GB (máximo)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/1bCPU.jpeg" style="margin-right: 50px;">
@@ -113,6 +115,7 @@
 
 ## Parte 2
 ### Analise para 1 trilhão
+#### Tamanho: 5,91 TB (máximo)
 
 #### Tempo de execução total: 5.46 segundos
 
